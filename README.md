@@ -8,7 +8,7 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex: 1; text-align: center;">
     <h1 align="center">
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px" alt="Waving Hand Animation"/> Hi, I'm K maahan 
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px" alt="Waving Hand Animation"/> Hi, I'm K Maahan 
     </h1>
     <h3 align="center">As i am an Enthusiastic Developer</h3>
   </div>
