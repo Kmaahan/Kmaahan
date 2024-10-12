@@ -10,7 +10,7 @@
     <h1 align="center">
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px" alt="Waving Hand Animation"/> Hi, I'm K Maahan 
     </h1>
-    <h3 align="center">As i am an Enthusiastic Developer</h3>
+    <h3 align="center">As I Am An Enthusiastic Developer</h3>
   </div>
   <div style="flex: 1; text-align: right;">
   </div>
