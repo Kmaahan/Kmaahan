@@ -18,7 +18,7 @@
 
 Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kmaahan&label=Profile%20views&color=0e75b6&style=flat" alt="Kmaahan" /> </p>
-👨‍💻 Software Developer | 💡 Bug Debugger | 📱 App Developer | 
+👨‍💻 Software Developer(Both Frontend and Backend Developer) | 💡 Bug Debugger | 📱 Android App Developer | 
 I'm Kmaahan, a developer with experience in web and mobile app developmentand web developer. I’m passionate about creating efficient solutions using technologies like Laravel, MySQL, Android Studio, and more. Currently exploring AI-based projects like handwriting recognition and expanding my skills in full-stack development.
 
 - 🔭 I’m currently working on ...
