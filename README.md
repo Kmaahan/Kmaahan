@@ -30,9 +30,10 @@ I'm Kmaahan, a developer with experience in web and mobile app developmentand we
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on **DigitSketcher**
+- 🔭 I’m currently working on **Automated Financial Banking System Application Platform **
 - 🎮 Developing a game around the "3D city Builder" theme
 - 🌱 Learning new tools and techniques for improved app development
+- 🤔  Will Be Soon Uploading Them to the Github 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pruthvi-k-74a27b255?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqekBzm3lTy%2Bg8ilLEmmrWw%3D%3D8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pruthvi-k-74a27b255" height="30" width="40" /></a>
