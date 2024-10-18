@@ -2,6 +2,9 @@
 ## Hi there 👋
 <p align="center">
    <a href="https://github.com/K Maahan">
+       <picture>
+      <img src="assets/logo.svg" alt="Grafana k6" width="210" height="210" /><br>
+    </picture>
    <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&center=true&lines=Welcome+to+my+GitHub!;I+am+a+Developer;Building+awesome+projects;Always+learning+new+things!" />
    </a>
 </p>
