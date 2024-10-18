@@ -4,19 +4,6 @@
    <a href="https://github.com/K Maahan">
    <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&center=true&lines=Welcome+to+my+GitHub!;I+am+a+Developer;Building+awesome+projects;Always+learning+new+things!" />
    </a>
-<p align="center">
-    <picture>
-      <img src="assets/logo.svg" alt="KMaahan" width="210" height="210" /><br>
-    </picture>
-    <br>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/grafana-labs-dark-theme.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/grafana-labs.svg">
-      <img src="assets/grafana-labs.svg" alt="Grafana Labs" width="210" />
-    </picture>
-    <br>
-  </a>
-</p>
 </p>
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex: 1; text-align: center;">
@@ -31,9 +18,12 @@
 
 Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kmaahan&label=Profile%20views&color=0e75b6&style=flat" alt="Kmaahan" /> </p>
-👨‍💻 Software Developer(Both Frontend and Backend Developer) | 💡 Bug Debugger | 📱 Android App Developer | 
-I'm Kmaahan, a developer with experience in web and mobile app development and web developer. I’m passionate about creating efficient solutions using technologies like Laravel, MySQL, Android Studio, and more. Currently exploring AI-based projects like handwriting recognition and expanding my skills in full-stack development.
 
+ 🤔 Full-Stack Developer |🌱 Bug Hunter |👯 Android Innovator
+
+Hey there, I'm Kmaahan! As a dedicated developer with a knack for both frontend and backend magic, I bring ideas to life on the web and mobile. My toolkit includes Laravel, MySQL, and Android Studio, helping me create efficient and innovative solutions. Currently diving deep into AI-driven projects like handwriting recognition and broadening my full-stack expertise.
+
+Let's build something awesome together!
 - 🌱 I’m currently learning **Advanced Java,Javascript,Laravel,Devoops,Devsecoops,and More**
 - 👯 I’m looking to collaborate on **Someone with more knowledege about web delevpoment and android development**
 - 🔭 I’m currently working on **Automated Financial Banking System Application Platform**
