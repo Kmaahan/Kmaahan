@@ -4,6 +4,19 @@
    <a href="https://github.com/K Maahan">
    <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&center=true&lines=Welcome+to+my+GitHub!;I+am+a+Developer;Building+awesome+projects;Always+learning+new+things!" />
    </a>
+<p align="center">
+    <picture>
+      <img src="assets/logo.svg" alt="KMaahan" width="210" height="210" /><br>
+    </picture>
+    <br>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/grafana-labs-dark-theme.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/grafana-labs.svg">
+      <img src="assets/grafana-labs.svg" alt="Grafana Labs" width="210" />
+    </picture>
+    <br>
+  </a>
+</p>
 </p>
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex: 1; text-align: center;">
