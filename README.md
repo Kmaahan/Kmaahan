@@ -36,6 +36,9 @@ Let's build something awesome together!
 <a href="https://www.instagram.com/pruthvimaahan222?igsh=bHozdmcyMHV0amE1" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
 </a>
+<a href="https://wa.me/qr/ACCNEYXZWQTDP1" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" />
+</a>
 </p>
 <p>
   <img src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" alt="Stickman Waving and Coding" width="200" />
