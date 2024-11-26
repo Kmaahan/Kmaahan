@@ -33,7 +33,9 @@ Let's build something awesome together!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pruthvi-k-74a27b255?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BqekBzm3lTy%2Bg8ilLEmmrWw%3D%3D8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pruthvi-k-74a27b255" height="30" width="40" /></a>
-   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_unique_ram02)
+<a href="https://www.instagram.com/pruthvimaahan222?igsh=bHozdmcyMHV0amE1" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+</a>
 </p>
 <p>
   <img src="https://media.tenor.com/6JptszQgCnkAAAAj/text-work.gif" alt="Stickman Waving and Coding" width="200" />
